@@ -2,7 +2,7 @@
 
 # Forked ML-Agents Toolkit
 
-We have forked the [ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) in order to improve upon the original SDK without the tether of Unity.
+We have forked the [ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents).
 
 Any Work that is done here has no association with Unity.
 
